@@ -1,0 +1,1 @@
+## Create User class with init and a few methods
